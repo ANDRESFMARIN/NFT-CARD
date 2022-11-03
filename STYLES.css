@@ -44,6 +44,25 @@ h3 {
     
 }
 
+h4 {
+    position: relative;
+    top: 397px;
+    left: 690px;
+    font-size: 15px;
+    color: #4d617d;
+    
+    
+}
+
+h5 {
+    position: relative;
+    top: 387px;
+    left: 537px;
+    font-size: 15px;
+    color: #4d617d;
+
+}
+
 .et_again{
     position: absolute;
     top: 450px;
@@ -68,3 +87,17 @@ h3 {
 .blue_again:hover {
     transform: scale(1.2);
 }
+
+.time_again{
+    position: absolute;
+    top: 450px;
+    left: 678px;
+    transition: 1s;
+
+}
+
+.time_again.time_again:hover {
+    transform: scale(1.2);
+}
+
+
